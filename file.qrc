@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/BackButtonSound.wav</file>
+        <file>music/ConFlipSound.wav</file>
+        <file>music/LevelWinSound.wav</file>
+        <file>music/myDouDZ.wav</file>
+        <file>music/TapButtonSound.wav</file>
+        <file>music/Cucurbit_Flute.mp3</file>
+        <file>music/Good_night_meow.mp3</file>
+        <file>music/moon_crosses_over_small_hill.mp3</file>
+    </qresource>
+</RCC>
